@@ -1,7 +1,9 @@
 Thank you for considering the CompanyX as your potential next employer. The
 coding challenge gives you an impression of what’s important for us when building
 software systems. Although URL-shortener are not our business, we hope you have
-some fun with it.
+some fun with it. 
+
+Typically you shouldn't have to spend more than 2 hours.
 
 # The task
 Imagine you're building an URL shortener as a potential next-big-thing product. To
