@@ -27,6 +27,7 @@ environments, consisting of multiple instances. So, provide data in a way that
 allows customization for dedicated environments
 - when designing the solution please think about global scalability: what
 endpoints will be used the most, what might be a bottle neck, what could be a
-possible solution to identify problems
+possible solution to identify problems.
+
 Have fun with our coding challenge. If you have any questions, don’t hesitate to
 ask.
